@@ -1,69 +1,20 @@
-# Welcome to your Lovable project
+#Front-End da Bleya
 
-## Project info
+Este projeto apresenta o front-end desenvolvido para a Bleya, uma empresa inovadora que tem como objetivo oferecer soluções tecnológicas de forma moderna e acessível. A aplicação foi criada utilizando React e Vite, com foco em performance, interatividade e uma experiência de usuário imersiva.
 
-**URL**: https://lovable.dev/projects/3d01daa6-4572-4e82-a33b-8fe951093604
+#Tecnologias Utilizadas
 
-## How can I edit this code?
+React: Biblioteca JavaScript para construir a interface.
+Vite: Ferramenta de build rápida que proporciona uma experiência de desenvolvimento ágil.
+Framer Motion: Biblioteca para animações fluidas e transições suaves.
+Funcionalidades
+Layout Moderno e Clean: Estrutura minimalista e visualmente atraente que reflete a identidade da Bleya.
+Animações Dinâmicas: Efeitos de transição e interatividade utilizando o Framer Motion, proporcionando uma navegação fluída e envolvente.
+Responsividade: Design adaptável para garantir uma boa experiência em dispositivos móveis e desktops.
+Efeito Parallax: Utilizado para proporcionar uma experiência imersiva, com elementos que se movem de acordo com o scroll do usuário.
 
-There are several ways of editing your application.
+#Desafios
+Durante o desenvolvimento, enfrentei desafios relacionados à implementação de animações dinâmicas e à adaptação do layout para diferentes tamanhos de tela. A interação com o scroll e os efeitos de parallax exigiram cuidados para garantir a fluidez e a performance da aplicação.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/3d01daa6-4572-4e82-a33b-8fe951093604) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3d01daa6-4572-4e82-a33b-8fe951093604) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+#Resultado Final
+O resultado é um site visualmente dinâmico, com animações suaves e uma navegação intuitiva. O projeto foi desenvolvido de forma independente, com foco em criar uma interface que, além de funcional, proporciona uma experiência única ao usuário.
